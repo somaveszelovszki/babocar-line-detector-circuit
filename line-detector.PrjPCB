@@ -191,23 +191,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XBAUXGBE
 
 [Document10]
-DocumentPath=Main.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YQMJGJWG
-
-[Document11]
 DocumentPath=line-detector.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=..\altium-libs\adafruit.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=..\altium-libs\adafruit.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=..\altium-libs\hallglib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -273,9 +256,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RXNMYUCG
 
-[Document15]
+[Document14]
 DocumentPath=..\altium-libs\hallglib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -290,9 +273,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MJQNKJIS
 
-[Document16]
+[Document15]
 DocumentPath=..\altium-libs\Home.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=..\altium-libs\HomeProjects.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=..\altium-libs\mylib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -341,9 +324,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PHCONVDU
 
-[Document19]
+[Document18]
 DocumentPath=..\altium-libs\mylib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -358,9 +341,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DNTRFBSK
 
-[Document20]
+[Document19]
 DocumentPath=..\altium-libs\RobonAUT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,41 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
-DocumentPath=..\altium-libs\RPI 3.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document22]
-DocumentPath=..\altium-libs\RPI 3.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document23]
+[Document20]
 DocumentPath=..\altium-libs\rpi.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document21]
 DocumentPath=..\altium-libs\rpi.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document22]
 DocumentPath=..\altium-libs\SparkFun.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document23]
 DocumentPath=..\altium-libs\SparkFun.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document24]
 DocumentPath=..\altium-libs\stm32f4.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -494,9 +443,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ODOSRLOY
 
-[Document28]
+[Document25]
 DocumentPath=..\altium-libs\stm32f4.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -511,9 +460,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QVRMXKRD
 
-[Document29]
+[Document26]
 DocumentPath=..\altium-libs\stm32F030x.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document27]
 DocumentPath=..\altium-libs\stm32F030x.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document28]
 DocumentPath=..\altium-libs\STM32F401_Nucleo.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document29]
 DocumentPath=..\altium-libs\STM32F401_Nucleo.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -580,6 +529,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document30]
+DocumentPath=Main.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AAVODISX
 
 [Configuration1]
 Name=Sources
@@ -807,6 +773,12 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -1181,6 +1153,11 @@ OutputName6=Footprint Comparison Report
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
+OutputType7=BOM_Violations
+OutputName7=BOM Checks Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
 
 [OutputGroup9]
 Name=Export Outputs
@@ -1232,6 +1209,16 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=MBAExportPARASOLID
+OutputName10=Export PARASOLID
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=MBAExportSTEP
+OutputName11=Export STEP
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1361,6 +1348,9 @@ Type113=1
 Type114=1
 Type115=1
 Type116=1
+Type117=1
+Type118=1
+Type119=1
 
 [Difference Levels]
 Type1=1
@@ -1428,6 +1418,9 @@ Type62=1
 Type63=1
 Type64=1
 Type65=1
+Type66=1
+Type67=1
+Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1436,33 +1429,33 @@ Type3=2
 Type4=1
 Type5=2
 Type6=2
-Type7=1
+Type7=0
 Type8=1
 Type9=1
 Type10=1
 Type11=2
-Type12=2
-Type13=2
+Type12=0
+Type13=0
 Type14=1
 Type15=1
 Type16=1
 Type17=1
 Type18=1
 Type19=1
-Type20=1
-Type21=1
-Type22=1
-Type23=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
 Type24=1
 Type25=2
-Type26=2
+Type26=0
 Type27=2
 Type28=1
 Type29=1
 Type30=1
 Type31=1
 Type32=2
-Type33=2
+Type33=0
 Type34=2
 Type35=1
 Type36=2
@@ -1473,15 +1466,15 @@ Type40=2
 Type41=0
 Type42=2
 Type43=1
-Type44=1
-Type45=2
-Type46=1
-Type47=2
-Type48=2
-Type49=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
 Type50=2
-Type51=1
-Type52=1
+Type51=0
+Type52=0
 Type53=1
 Type54=1
 Type55=1
@@ -1489,10 +1482,10 @@ Type56=2
 Type57=1
 Type58=1
 Type59=2
-Type60=1
-Type61=2
-Type62=2
-Type63=1
+Type60=0
+Type61=0
+Type62=0
+Type63=0
 Type64=0
 Type65=2
 Type66=3
@@ -1530,7 +1523,7 @@ Type97=2
 Type98=0
 Type99=1
 Type100=2
-Type101=1
+Type101=0
 Type102=2
 Type103=2
 Type104=1
@@ -1575,6 +1568,7 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
+ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -1593,81 +1587,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=hallglib.SchLib
-ComponentDesignItemID0=CAP 100nF
-ComponentSymbolReference0=CAP 100nF
-ComponentUpdate0=0
+ComponentLibraryIdentifier0=RobonAUT.SchLib
+ComponentDesignItemID0=TCRT5000
+ComponentSymbolReference0=TCRT5000
+ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=hallglib.SchLib
-ComponentDesignItemID1=CAP 1uF
-ComponentSymbolReference1=CAP 1uF
-ComponentUpdate1=0
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=hallglib.SchLib
-ComponentDesignItemID2=Connector_4pin
-ComponentSymbolReference2=Connector_4pin
-ComponentUpdate2=0
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=hallglib.SchLib
-ComponentDesignItemID3=RES 1K
-ComponentSymbolReference3=RES 1K
-ComponentUpdate3=0
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=hallglib.SchLib
-ComponentDesignItemID4=RES 8K2
-ComponentSymbolReference4=RES 8K2
-ComponentUpdate4=0
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=RobonAUT.SchLib
-ComponentDesignItemID5=CRCW0805806RFKEA
-ComponentSymbolReference5=CRCW0805806RFKEA
-ComponentUpdate5=0
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=RobonAUT.SchLib
-ComponentDesignItemID6=KPT-2012SURCK
-ComponentSymbolReference6=KPT-2012SURCK
-ComponentUpdate6=0
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=RobonAUT.SchLib
-ComponentDesignItemID7=MAX1110CAP+
-ComponentSymbolReference7=MAX1110CAP+
-ComponentUpdate7=0
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=RobonAUT.SchLib
-ComponentDesignItemID8=MCMR08X2202FTL
-ComponentSymbolReference8=MCMR08X2202FTL
-ComponentUpdate8=0
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=RobonAUT.SchLib
-ComponentDesignItemID9=STP16CP05TTR
-ComponentSymbolReference9=STP16CP05TTR
-ComponentUpdate9=0
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=RobonAUT.SchLib
-ComponentDesignItemID10=TCRT5000
-ComponentSymbolReference10=TCRT5000
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=stm32F030x.IntLib
-ComponentDesignItemID11=STM32F030
-ComponentSymbolReference11=STM32F030
-ComponentUpdate11=0
-ComponentIsDeviceSheet11=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1687,78 +1616,21 @@ ParameterName1=Component Kind
 ParameterUpdate1=1
 ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=DeviceName
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=DeviceSetName
-ParameterUpdate4=1
-ParameterName5=GateName_1
-ParameterUpdate5=1
-ParameterName6=Library Reference
-ParameterUpdate6=1
-ParameterName7=LibraryName
-ParameterUpdate7=1
-ParameterName8=Name
-ParameterUpdate8=1
-ParameterName9=Package
-ParameterUpdate9=1
-ParameterName10=Power
-ParameterUpdate10=1
-ParameterName11=Reference
-ParameterUpdate11=1
-ParameterName12=Resistance
-ParameterUpdate12=1
-ParameterName13=Supplier
-ParameterUpdate13=1
-ParameterName14=SymbolName_1
-ParameterUpdate14=1
-ParameterName15=Tolerance
-ParameterUpdate15=1
-ParameterName16=Value
-ParameterUpdate16=1
-ParameterName17=Voltage
-ParameterUpdate17=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=0805-W
+ModelName0=TCRT5000
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=0808-LED
+ModelName1=TCRT5000_NO_HOLE
 ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=20-Pin SSOP
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=24-Pin TSSOP
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=FP_0805_CAP_085
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=FP_0805_RES
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=FP_CONN4_2MM_180
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=FP_CONN4_2MM_90
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=FP_CONN4_TAP_254MM
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=FP_CONN4_TAP_254MM_90
-ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=TCRT5000
-ModelUpdate10=1
-ModelType11=PCBLIB
-ModelName11=TQFP32-08
-ModelUpdate11=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
