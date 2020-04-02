@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for line-detector
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -548,62 +548,66 @@ GenerateClassCluster=0
 DocumentUniqueId=AAVODISX
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for line-detector\Main.DRR
+DocumentPath=Project Outputs for line-detector\Design Rule Check - Main.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for line-detector\Main.EXTREP
+DocumentPath=Project Outputs for line-detector\Main.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for line-detector\Main.GBL
+DocumentPath=Project Outputs for line-detector\Main.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for line-detector\Main.GBO
+DocumentPath=Project Outputs for line-detector\Main.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for line-detector\Main.GBP
+DocumentPath=Project Outputs for line-detector\Main.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for line-detector\Main.GBS
+DocumentPath=Project Outputs for line-detector\Main.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for line-detector\Main.GKO
+DocumentPath=Project Outputs for line-detector\Main.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for line-detector\Main.GM1
+DocumentPath=Project Outputs for line-detector\Main.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for line-detector\Main.GTL
+DocumentPath=Project Outputs for line-detector\Main.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for line-detector\Main.GTO
+DocumentPath=Project Outputs for line-detector\Main.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for line-detector\Main.GTS
+DocumentPath=Project Outputs for line-detector\Main.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for line-detector\Main.LDP
+DocumentPath=Project Outputs for line-detector\Main.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for line-detector\Main.REP
+DocumentPath=Project Outputs for line-detector\Main.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for line-detector\Main.RUL
+DocumentPath=Project Outputs for line-detector\Main.REP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
+DocumentPath=Project Outputs for line-detector\Main.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
 DocumentPath=Project Outputs for line-detector\Main.TXT
 DItemRevisionGUID=
 
@@ -654,7 +658,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for line-detector
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
